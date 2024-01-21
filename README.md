@@ -1,2 +1,2 @@
 # vue_sneakers
-[visit page](https://vue-sneakers-tan.vercel.app/)
+[visit builded page](https://vue-sneakers-tan.vercel.app/)
